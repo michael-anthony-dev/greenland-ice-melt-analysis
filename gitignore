@@ -1,0 +1,9 @@
+# Ignore system files
+__pycache__/
+*.DS_Store
+
+# Ignore sensitive info (if you used a .env file)
+.env
+
+# Ignore large CSVs (Optional - GitHub hates huge files, but yours is small so it's fine to keep)
+# *.csv
