@@ -65,7 +65,7 @@ VS Code (recommended)
 Open your terminal and run:
 
 Bash
-git clone [https://github.com/](https://github.com/)michael-anthony-dev/greenland-ice-melt-analysis.git
+git clone https://github.com/michael-anthony-dev/greenland-ice-melt-analysis.git
 cd greenland-ice-melt-analysis
 
 ## 3. Install Dependencies
